@@ -1,0 +1,254 @@
+{
+  "main": {
+    "name":"Theerut Foongkiatcharoen",
+    "occupation":"Fullstack Web Developer, Software Engineer and Embedded System Engineer.",
+    "description":"Also, I'm a grad student who has an eclectic taste in music and is passionate about action figure, RC car, coding, Internet of Things, and photography.",
+    "image":"profilepic.jpg",
+    "bio":"I am a 25-year-old coder, movie buff, computer engineer from Bangkok, Thailand, and I am chiefly interested in technology. You will also see from my resume that I am a graduate student in the Computer Engineering program at Syracuse University. I have experience with cyber security, vulnerability assessment, infrastructure penetration testing, and server configuration review at Deloitte as an IT analyst in the cyber security department. I also am proficient in web development, using a MEAN stack, MERN stack, or ASP.NET, which is a collection of JavaScript-based technologies (MongoDB, Express.js, Angularjs2/React.js, and Node.js) or a set of technologies in the Microsoft .NET Framework used to develop web applications. The followings are examples of my React URL that I build from scratch: http://strawberry-custard-81818.herokuapp.com/, https://agile-castle-91250.herokuapp.com/, and http://shielded-earth-69097.herokuapp.com/. My GitHub repo is the following: github.com/topkoong/. In addition, I held a part-time position as a systems operator during my undergraduate career at Pragma Technology Co., Ltd. While working there, I monitored networks to maintain integrity, as well as ensured security, network connectivity, and availability to specific users. Similarly, I deployed and configured servers by applying OS patches and upgrades on a regular basis, in addition to upgrading administrative tools and utilities. Furthermore, I maintained network servers such as intrusion detection system, intrusion prevention system, and system efficiency. I believe that my focus and productivity will be a great asset to your company. I have exceptional problem-solving skills, a methodical approach, and excellent attention to detail. I perform well when faced with strict deadlines and am also an effective communicator who works well with others.",
+    "email": "theeruttop@gmail.com",
+    "phone": "217-372-6176",
+    "address":{
+      "street":"502 University Ave, Apt# 4",
+      "city":"Syracuse",
+      "state":"New York",
+      "zip": "13210"
+    },
+    "website": "http://www.theeruttop.com",
+    "resumedownload":"https://drive.google.com/file/d/0BxyTTWvvErcjRUgwWkUyei1iWnM/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/egntoppy",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/toptheerut?lang=en",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/theerut-foongkiatcharoen-603563113/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/theeruttop/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/topkoong/",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Syracuse University",
+        "degree":"Master's Degree in Computer Engineering",
+        "graduated":"May 2018",
+        "project": ["Developed an iOS application called Mood Diary using Swift3","Created a door opening system with video capture and streaming capabilities using the Beagle Bone Black"]
+      },
+      {
+        "school":"King Mongkut's Institute of Technology Ladkrabang",
+        "degree":"Bachelor of Engineering (B.Eng.) in Computer Engineering",
+        "graduated":"March 2014",
+        "project": ["Front-End Web Development using Bootstrap framework, HTML5, CSS3, PHP, JQuery, Javascript, Ajax, AngularJS, Joomla, and Wordpress",
+        "Simulated, configured and tested FPGA using VHDL Design",
+        "Ethical Hacking practice with hands-on experience in the field of Network Security, Penetration Testing, Web Application Security, Unix Security, and Windows Security",
+        "Senior project with regard to Enterprise Network security implemented using ClearOS which is an operating system for Server, Network, and Gateway systems along with Snort, a free and open source network intrusion prevention system (NIPS), as a smart server"
+        ]
+      }
+    ],
+    "work":[
+      {
+        "company":"Docere eLearning Solutions LLC - Lawton, OK",
+        "title":"Web Developer",
+        "years":"Oct 2016 – Jan 2017",
+        "description": ["Designed and implemented database of vocabulary lessons, lessons videos, games, and quizzes",
+           "Collaborated with graphic designer to create a Game Aquedrip, catching the falling letters to spell a Latin or English word"
+         ]
+      },
+      {
+        "company":"Deloitte - Bangkok, Thailand",
+        "title":"Cyber Security - IT Analyst",
+        "years":"Apr 2014 - Dec 2014",
+        "description": ["Protected personally identifiable information and other sensitive data and reduced the risk of data breaches for clients",
+        "Operated powerful penetration testing tools to find security holes or vulnerabilities in organizational Information Systems",
+        "Bypassed computer systems to inspect computer security and to gain access to another account to find confidential information",
+        "Identified types of threats to migrate and obstruct enterprise security risks",
+        "Explored and analyzed potential vulnerabilities in order for IT security to hinder malicious threats, effectively manage the risks, increase user awareness, and protect the brands"
+        ]
+      },
+      {
+        "company":"Pragma Technology Co.,Ltd. - Bangkok, Thailand",
+        "title":"System Operator",
+        "years":"Jun 2013 - Feb 2014",
+        "description": ["Monitored networks to ensure security and availability to specific users",
+        "Evaluated and modified system performance",
+        "Developed and maintained installation and configuration procedures",
+        "Applied OS patches and upgrades on a regular basis, and upgraded administrative tools and utilities",
+        "Configured / added new services as necessary",
+        "Managed User & Computer Accounts in Active Directory",
+        "Controlled Users & Workstation with Group Policy",
+        "Deployed and managed Windows Server 2012",
+        "Installed CentOS Linux from Scratch",
+        "Configured the Firewall and specified the Firewall Rules"
+        ]
+      },
+      {
+        "company":"CAT Telecom Public Company Limited - Bangkok, Thailand",
+        "title":"Summer Internship",
+        "years":"Apr 2013 - Jun 2013",
+        "description":["Configured CISCO Router and Switch",
+        "Simulated Local Area Network Design",
+        "Connected the router FastEthernet, Serial WAN, and console ports to devices and interconnect routers, hubs, and switches using serial and Ethernet interfaces",
+        "Performed, saved and tested an initial configuration on a router or modify an existing configuration",
+        "Evaluated, configured and troubleshot routing protocols, static routes and default routes",
+        "Analyzed, configured, implemented and verified access control lists",
+        "Configured, troubleshot, verified and explained the operation of routing protocols on a Cisco Router (RIP, RIPv2, IGRP, EIGRP, and OSPF)",
+        "Performed upgrades or restore Cisco switch IOS and configuration files",
+        "Created VLANs and assigned ports to VLANs to meet given user requirements"
+        ]
+      }
+    ],
+    "skills":[
+      {
+        "name":"Reactjs",
+        "level":"90%"
+      },
+      {
+        "name":"Nodejs",
+        "level":"85%"
+      },
+      {
+        "name":"ES6 Javascript",
+        "level":"90%"
+      },
+      {
+        "name":"C#",
+        "level":"90%"
+      },
+      {
+        "name":"ASP.NET",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"90%"
+      },
+      {
+        "name":"C++",
+        "level":"75%"
+      },
+      {
+        "name":"HTML5",
+        "level":"95%"
+      },
+      {
+        "name":"Angular 4 (formerly Angular 2)",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Mood Diary Application",
+        "description":"Mood Diary is a simple, effective, and personal application because you can manage all your thoughts with Mood diary, and you are capable of storing journal entries, photos and voice memos. In addition, you are able to record your special events, normal events, and thoughts and feelings. This is a kind of therapy after bad days given that you can understand things you could have done better thereby assessing your mistakes when writing something down and considering it. In addition, you are able to appreciate your success by writing down a challenge you overcame and how you did it. Functions of this application software are to perform specific operations for the convenience of users such as adding or editing diary, getting user’s current location, finding titles by keyword, recording audio as well as sharing their stories to social media eg. Twitter and Facebook. To implement this project, we used CoreData, AVAFoundation, MapKit, CoreLocation Framework, ImagePicker, and Social Framework, and Model View Controller pattern in this application.",
+        "category":"iOS Application",
+        "tags":"Branding, Web Design",
+        "image":"dooropening.jpg",
+        "url":"https://github.com/topkoong/Mood-Diary-Application",
+        "modal":"#modal-01"
+      },
+      {
+        "title":"Door Opening Entry Alert System",
+        "description":"Our project involves constructing a door opening alert system using the Beagle Bone Black. The door opening entry alert system will use a motion sensor to detect movement from a person. Then a webcam captures a photo when somebody opens the door. Afterward, the system will notify the user via email. The email itself will consist of the photo from the webcam and the date and the time of the photo captured. In conclusion, the project will send a photo to the user when a door is opened.",
+        "category":"Embedded Systems",
+        "tags":"Branding, Web Development",
+        "image":"mooddiary.jpeg",
+        "url":"https://github.com/topkoong/Door-Opening-Entry-Alert-System",
+        "modal":"#modal-02"
+      },
+      {
+        "title":"Coming soon",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Web Development",
+        "tags":"Branding, Web Programming",
+        "image":"comingsoon.jpg",
+        "url":"http://port3.com",
+        "modal":"#modal-03"
+      },
+      {
+        "title":"Coming soon",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Photography",
+        "tags":"Photography, Design",
+        "image":"comingsoon.jpg",
+        "url":"http://port4.com",
+        "modal":"#modal-04"
+      },
+      {
+        "title":"Coming soon",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Branding",
+        "tags":"Branding, Web Design",
+        "image":"comingsoon.jpg",
+        "url":"http://port5.com",
+        "modal":"#modal-05"
+      },
+      {
+        "title":"Coming soon",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Photography",
+        "tags":"Photography, Graphic Design",
+        "image":"comingsoon.jpg",
+        "url":"http://port6.com",
+        "modal":"#modal-06"
+      },
+      {
+        "title":"Coming soon",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Illustration",
+        "tags":"Branding, Illustration",
+        "image":"comingsoon.jpg",
+        "url":"http://port7.com",
+        "modal":"#modal-07"
+      },
+      {
+        "title":"Coming soon",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Web Development",
+        "tags":"Photography",
+        "image":"comingsoon.jpg",
+        "url":"http://port8.com",
+        "modal":"#modal-08"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Talk is cheap. Show me the code.",
+        "user":"Linus Torvalds"
+      },
+      {
+        "text":"Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.",
+        "user":"Mosher’s Law of Software Engineering"
+      }
+    ]
+  }
+}
