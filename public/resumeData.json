@@ -170,7 +170,7 @@
         "description":"Mood Diary is a simple, effective, and personal application because you can manage all your thoughts with Mood diary, and you are capable of storing journal entries, photos and voice memos. In addition, you are able to record your special events, normal events, and thoughts and feelings. This is a kind of therapy after bad days given that you can understand things you could have done better thereby assessing your mistakes when writing something down and considering it. In addition, you are able to appreciate your success by writing down a challenge you overcame and how you did it. Functions of this application software are to perform specific operations for the convenience of users such as adding or editing diary, getting user’s current location, finding titles by keyword, recording audio as well as sharing their stories to social media eg. Twitter and Facebook. To implement this project, we used CoreData, AVAFoundation, MapKit, CoreLocation Framework, ImagePicker, and Social Framework, and Model View Controller pattern in this application.",
         "category":"iOS Application",
         "tags":"Diary, Mobile Application",
-        "image":"mooddiary.jpeg",
+        "image":"https://media.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=DBzehW4oWw8GQ28dQHcuBUgUf3o%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdf3PsesXaeeaguVVFfHoclAM1dvL5RzXpD5e9KY3qK94i357jI424ZxUBbFImi24",
         "url":"https://github.com/topkoong/Mood-Diary-Application",
         "modal":"#modal-01"
       },
@@ -179,7 +179,7 @@
         "description":"Our project involves constructing a door opening alert system using the Beagle Bone Black. The door opening entry alert system will use a motion sensor to detect movement from a person. Then a webcam captures a photo when somebody opens the door. Afterward, the system will notify the user via email. The email itself will consist of the photo from the webcam and the date and the time of the photo captured. In conclusion, the project will send a photo to the user when a door is opened.",
         "category":"Embedded Systems",
         "tags":"Embedded Systems, IoT",
-        "image":"dooropening.jpg",
+        "image":"https://media.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=7GHVQFqzD5RuJbx%2Bdtau0zeuVV4%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdf3a8eMfbeLuluQ4RfisclFU6efKgRzjnD5q5Ko_ofd4gj8a2JY24ZxUBbFI8lWxI",
         "url":"https://github.com/topkoong/Door-Opening-Entry-Alert-System",
         "modal":"#modal-02"
       },

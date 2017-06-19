@@ -3,12 +3,13 @@ class Portfolio extends Component {
   render() {
     if(this.props.data) {
       var portfolio = this.props.data.projects.map((project) => {
-        var imageUrl = 'images/portfolio/'+project.image;
+        // var imageUrl = 'images/portfolio/'+project.image;
+        // <img alt="" src={imageUrl}/>
         return (
           <div key={project.modal} className="columns portfolio-item">
               <div className="item-wrap">
                  <a href={project.url} title="">
-                    <img alt="" src={imageUrl}/>
+                    <img alt="" src={project.image}/>
                     <div className="overlay">
                       <div className="portfolio-item-meta">
                           <h5>{project.title}</h5>
