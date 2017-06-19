@@ -169,8 +169,8 @@
         "title":"Mood Diary Application",
         "description":"Mood Diary is a simple, effective, and personal application because you can manage all your thoughts with Mood diary, and you are capable of storing journal entries, photos and voice memos. In addition, you are able to record your special events, normal events, and thoughts and feelings. This is a kind of therapy after bad days given that you can understand things you could have done better thereby assessing your mistakes when writing something down and considering it. In addition, you are able to appreciate your success by writing down a challenge you overcame and how you did it. Functions of this application software are to perform specific operations for the convenience of users such as adding or editing diary, getting user’s current location, finding titles by keyword, recording audio as well as sharing their stories to social media eg. Twitter and Facebook. To implement this project, we used CoreData, AVAFoundation, MapKit, CoreLocation Framework, ImagePicker, and Social Framework, and Model View Controller pattern in this application.",
         "category":"iOS Application",
-        "tags":"Branding, Web Design",
-        "image":"dooropening.jpg",
+        "tags":"Diary, Mobile Application",
+        "image":"mooddiary.jpeg",
         "url":"https://github.com/topkoong/Mood-Diary-Application",
         "modal":"#modal-01"
       },
@@ -178,8 +178,8 @@
         "title":"Door Opening Entry Alert System",
         "description":"Our project involves constructing a door opening alert system using the Beagle Bone Black. The door opening entry alert system will use a motion sensor to detect movement from a person. Then a webcam captures a photo when somebody opens the door. Afterward, the system will notify the user via email. The email itself will consist of the photo from the webcam and the date and the time of the photo captured. In conclusion, the project will send a photo to the user when a door is opened.",
         "category":"Embedded Systems",
-        "tags":"Branding, Web Development",
-        "image":"mooddiary.jpeg",
+        "tags":"Embedded Systems, IoT",
+        "image":"dooropening.jpg",
         "url":"https://github.com/topkoong/Door-Opening-Entry-Alert-System",
         "modal":"#modal-02"
       },
