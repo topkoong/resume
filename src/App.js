@@ -19,7 +19,7 @@ class App extends Component {
   }
   getResumeData() {
     $.ajax({
-      url: 'http://localhost:3000/resumeData.json',
+      url: 'https://afternoon-fjord-63378.herokuapp.com/resumeData.json',
       dataType: 'json',
       cache: false,
       success: function(data){
