@@ -8,9 +8,9 @@ class Resume extends Component {
                <div className="twelve columns">
                   <h3>{edu.school}</h3>
                   <p className="info">{edu.degree} <span>&bull;</span> <em className="date">{edu.graduated}</em></p>
-                  <ul>
-                    <li key={edu.project.toString()}><span>&bull;</span>{edu.project}</li>
-                  </ul>
+                  <p>
+                    {edu.project.map(project => <li>{project}</li>)}
+                  </p>
                </div>
             </div>
           );
@@ -22,7 +22,7 @@ class Resume extends Component {
              <div className="twelve columns">
                 <h3>{job.company}</h3>
                 <p className="info">{job.title} <span>&bull;</span> <em className="date">{job.years}</em></p>
-                <p>{job.description}</p>
+                <p>{job.description.map(project => <li>{project}</li>)}</p>
              </div>
           </div>
         );
