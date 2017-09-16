@@ -17,7 +17,7 @@ class Contact extends Component {
                      <h1><span>Get In Touch.</span></h1>
                   </div>
                   <div className="ten columns">
-                        <p className="lead">Actively seeking a Full Stack Web Developer Intern position - Fall 2017</p>
+                        <p className="lead">Actively seeking internship opportunities for Summer 2018</p>
                   </div>
                </div>
                <div className="row">

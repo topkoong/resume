@@ -7,7 +7,7 @@ class Footer extends Component {
                <div className="twelve columns">
                   <ul className="copyright">
                      <li>&copy; Copyright 2017</li>
-                     <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Theerut Foongkiatcharoen</a></li>
+                     <li>Design by <a title="Styleshout" href="https://www.linkedin.com/in/theerut-foongkiatcharoen-603563113/">Theerut Foongkiatcharoen</a></li>
                   </ul>
                </div>
                <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open"></i></a></div>

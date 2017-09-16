@@ -8,13 +8,13 @@
     "email": "theeruttop@gmail.com",
     "phone": "217-372-6176",
     "address":{
-      "street":"502 University Ave, Apt# 4",
+      "street":"700 Lancaster",
       "city":"Syracuse",
       "state":"New York",
       "zip": "13210"
     },
-    "website": "http://www.theeruttop.com",
-    "resumedownload":"https://drive.google.com/file/d/0BxyTTWvvErcjRUgwWkUyei1iWnM/view?usp=sharing",
+    "website": "https://afternoon-fjord-63378.herokuapp.com",
+    "resumedownload":"https://drive.google.com/file/d/0BxyTTWvvErcjZURHWHVDTXhuUjQ/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -184,39 +184,39 @@
         "modal":"#modal-02"
       },
       {
-        "title":"Coming soon",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "title":"Music Collection",
+        "description":"Experimental website",
         "category":"Web Development",
         "tags":"Branding, Web Programming",
-        "image":"http://www.oakleymotorsports.com/wp-content/uploads/2016/02/22520129_l.jpg",
-        "url":"http://port3.com",
+        "image":"https://d30y9cdsu7xlg0.cloudfront.net/png/187148-200.png",
+        "url":"https://shielded-fjord-34894.herokuapp.com/",
         "modal":"#modal-03"
       },
       {
-        "title":"Coming soon",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category":"Photography",
-        "tags":"Photography, Design",
-        "image":"http://www.oakleymotorsports.com/wp-content/uploads/2016/02/22520129_l.jpg",
-        "url":"http://port4.com",
+        "title":"Todo App",
+        "description":"Experimental website",
+        "category":"Web Development",
+        "tags":"Branding, Web Programming",
+        "image":"https://maxcdn.icons8.com/Share/icon/nolan/Business//todo_list1600.png",
+        "url":"http://strawberry-custard-81818.herokuapp.com/",
         "modal":"#modal-04"
       },
       {
-        "title":"Coming soon",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category":"Branding",
-        "tags":"Branding, Web Design",
-        "image":"http://www.oakleymotorsports.com/wp-content/uploads/2016/02/22520129_l.jpg",
-        "url":"http://port5.com",
+        "title":"Get Weather",
+        "description":"Experimental website",
+        "category":"Web Development",
+        "tags":"Branding, Web Programming",
+        "image":"http://www.freeiconspng.com/uploads/weather-icon-png-5.png",
+        "url":"http://shielded-earth-69097.herokuapp.com/",
         "modal":"#modal-05"
       },
       {
-        "title":"Coming soon",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category":"Photography",
-        "tags":"Photography, Graphic Design",
-        "image":"http://www.oakleymotorsports.com/wp-content/uploads/2016/02/22520129_l.jpg",
-        "url":"http://port6.com",
+        "title":"Timer",
+        "description":"Experimental website",
+        "category":"Web Development",
+        "tags":"Branding, Web Programming",
+        "image":"https://visualpharm.com/assets/391/Alarm%20Clock-595b40b75ba036ed117d53ab.svg",
+        "url":"http://agile-castle-91250.herokuapp.com/",
         "modal":"#modal-06"
       },
       {
